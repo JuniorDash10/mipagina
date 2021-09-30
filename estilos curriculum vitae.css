@@ -1,0 +1,71 @@
+@charset "utf-8";
+#principal {
+    width: 720px;
+    height: 920px;
+    margin: 10px auto;
+    background-color: #DDD7D7;
+}
+#principal #imagen {
+    width: 300px;
+    height: 520px;
+    float: left;
+    clear: none;
+}
+#principal #datos_lado_derecho {
+    width: 420px;
+    height: 920px;
+    float: right;
+    background-color: #D5CDCD;
+}
+#principal #datos_lado_derecho #nombrecabezara {
+    margin-top: 40px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 10px;
+    width: 90%;
+    background-color: #D5CDCD;
+    height: 80px;
+}
+
+#principal #datos_lado_derecho #nombre {
+    color: #2741DC;
+    font-size: 30px;
+}
+#principal #datos_lado_derecho #datos_personales {
+    width: 90%;
+    margin: 10px auto;
+    height: 220px;
+    background-color: #D5CDCD;
+}
+#principal #datos_lado_derecho #formacion_academica {
+    width: 90%;
+    height: 220px;
+    margin: 10px auto;
+    background-color: #D5CDCD;
+}
+#principal #datos_lado_derecho #experiencia_profecional {
+    width: 90%;
+    height: 310px;
+    margin: 10px auto;
+    background-color: #D5CDCD;
+}
+
+#principal #datos_lado_izquierdo {
+    width: 300px;
+    height: 400px;
+    background-color: #2741DC;
+    float: left;
+}
+#principal #datos_lado_izquierdo .conocimientos {
+    width: 90%;
+    height: 180px;
+    margin: 10px auto;
+    background-color: #2741DC;
+}
+
+#principal #datos_lado_izquierdo #formacion_complementaria {
+    width: 90%;
+    height: 180px;
+    margin: 10px auto;
+    background-color: #2741DC;
+}
